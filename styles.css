@@ -70,3 +70,6 @@ div.Rome img{
 #bookmark:hover {
     background-color: rgb(254, 175, 29);
 }
+.information p strong:hover {
+    text-decoration: underline;
+}
