@@ -1,0 +1,60 @@
+
+body {
+    background-color: black;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+}
+.post {
+    background-color: white;
+    height: 380px;
+    width: 300px;
+    margin: auto;
+}
+.post-header {
+    padding-top: 8px;
+    display: flex;
+    padding-bottom: 7px;
+    padding-left: 5px;
+}
+.icon-letters {
+    margin-left: 5px;
+    font-size: x-small;
+}
+.icon-letters p {
+    margin: 0%;
+}
+.three-dots {
+    float: left;
+    margin-left: 75%;
+}
+.html-icon {
+    margin-top: 2px;
+    padding-left: 4px;
+}
+div.Rome img{
+    width: 100%;
+}
+.interactive-icons {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.bookmark {
+    float: right;
+}
+.information {
+    font-size: 9px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.liked-by {
+    font-size: x-small;
+    margin-top: 0%;
+    padding-top: 0%;
+    padding-left: 8px;
+    padding-right: 8px;
+}
